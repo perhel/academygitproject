@@ -8,3 +8,12 @@ body {
     padding: 0;
 }
 
+h3{
+	text-align: center;
+}
+
+table{
+	border-style: dashed;
+	border-width: 3px;
+	border-color: gray;
+}
