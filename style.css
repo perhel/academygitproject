@@ -8,8 +8,13 @@ body {
     padding: 0;
 }
 
+h1{
+	
+}
+
 h3{
 	text-align: center;
+	color: blue;
 }
 
 table{
