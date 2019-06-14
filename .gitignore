@@ -1,0 +1,24 @@
+
+# Created by https://www.gitignore.io/api/web
+# Edit at https://www.gitignore.io/?templates=web
+
+# Blacklist files/folders in same directory as the .gitignore file
+/*
+
+# Whitelist some files
+
+### Web ###
+!*.asp
+!*.cer
+!*.csr
+!*.css
+!*.htm
+!*.html
+!*.js
+!*.jsp
+!*.php
+!*.rss
+!*.xhtml
+!*.jpg
+
+# End of https://www.gitignore.io/api/web
